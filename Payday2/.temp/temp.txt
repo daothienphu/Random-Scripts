@@ -1,0 +1,87 @@
+# read data from https://payday.fandom.com/wiki/Masks_(Payday_2) (page source line 2332 - 4302) into wiki_page_source.html
+# file = open("out.txt", "w")
+# count = 0
+
+# cats = {}
+# subcats = []
+# currentName =""
+# with codecs.open("wiki_page_source.html", encoding="utf-8", mode="r") as f:
+#     lines = f.readlines()
+#     for line in lines:
+#         line = line.strip()
+#         if 'class="mw-headline"' in line and "h2" not in line:
+#             start = line.index('class="mw-headline"')
+#             start = line.find('id="', start)
+#             start += 4
+#             end = line.find('">', start)
+#             name = line[start:end]
+
+#             name = name.replace("_", ' ')
+
+#             if len(subcats) == 0:
+#                 print("empty subcat")
+#             else:
+#                 cats[currentName] = subcats
+#                 subcats = []
+
+#             currentName = name
+
+#             #print(name)
+#             file.write(f"{name}\n")
+
+#         if 'class="gallery-image-wrapper"' in line:
+#             start = line.index('class="pd-tooltip-elem"')
+#             start = line.find('<span', start)
+#             start = line.find('>', start)
+#             start += 1
+#             end = line.find('</span', start)
+#             name = line[start:end]
+
+#             name = name.replace('"', '')
+#             if name.endswith(", The"):
+#                 name = "The " + name[:-5]
+
+#             subcats.append(name)
+
+#             file.write(f"\t\t{name}\n")
+#             #print(f"\t\t{name}")
+#             count += 1
+#     cats[currentName] = subcats
+# file.close()
+# json_ = json.dumps(cats)
+# open("data_incomplete_backup_2.json", "w").write(json_)
+
+# The masks not on that wiki page, sleazy work really
+# Big Mike missing.
+# Boney Black Top missing.
+# Dead Man’s Eyes missing.
+# Deadhead Blues missing.
+# Decennial Jester missing.
+# Frayed Harvest missing.
+# Geist missing.
+# Highball missing.
+# Lars the Troll missing.
+# Mephistopheles missing.
+# Nine Hundred Degrees missing.
+# Nine Lives missing.
+# Prime Time missing.
+# Red Dead Bonehead Fred missing.
+# Texas Tea missing.
+# The Bullet missing.
+# The Burning 8th missing.
+# Vampyr missing.
+# Vile Carny missing.
+
+# The mask not on https://fbi.paydaythegame.com/, they only have PC masks, these are on consoles
+#     "Twisted Metal DLC": [
+#         "Sweettooth"
+#     ],
+#     "Thespian Mask Pack DLC": [
+#         "Thespian"
+#     ],
+#     "PS4 Pre-Order Mask": [
+#         "The Griefer"
+#     ],
+#     "Xbox One Pre-Order Mask": [
+#         "The Intuition"
+#     ],

@@ -1,0 +1,802 @@
+{
+    "PAYDAY 2 Community": [
+        "Mark",
+        "Hockey Heat",
+        "Happy Santa",
+        "Peter",
+        "Firestarter",
+        "Spackle",
+        "Gumbo",
+        "Smiley",
+        "Reservoir Dog",
+        "Terminator",
+        "Mad Lion",
+        "Conquest",
+        "Death",
+        "Famine",
+        "War",
+        "The Cat",
+        "The Fox",
+        "The Hare",
+        "The Mouse",
+        "Golden Dallas",
+        "A Proud Pilotka",
+        "The Officer's Hat",
+        "The Survivor's Pilot Hat",
+        "The Trophy Helmet",
+        "Golden Chains",
+        "Golden Wolf",
+        "Golden Hoxton",
+        "Golden Houston"
+    ],
+    "Dead by Daylight Community": [
+        "Devourer",
+        "Unborn",
+        "Blister Head",
+        "The Clawer",
+        "The Killer"
+    ],
+    "The Solus Project Community": [
+        "Planetary Tomb Guardian"
+    ],
+    "Normal (Card Drops)": [
+        "Alienware",
+        "Baby Rhino",
+        "The Big Lips",
+        "Blackhearted",
+        "The Brainiac",
+        "The Bullet",
+        "Calaca",
+        "The Cannula",
+        "The Crybaby",
+        "The Dripper",
+        "Doctor Crime",
+        "The Gagball",
+        "Greek Tragedy",
+        "Hockey Mask",
+        "The Hog",
+        "The Horned Beast",
+        "The Jaw",
+        "Kawaii",
+        "Kenneth",
+        "Mrs. Mannequin",
+        "Mr. Mannequin",
+        "Mr. Sackcloth",
+        "Mr. Smooth",
+        "Monkey Business",
+        "The Mummy",
+        "Oni",
+        "The Outlander",
+        "The Perfect Stranger",
+        "The Pout",
+        "The Rage",
+        "The Shogun",
+        "The Shrunken Head",
+        "The Starved",
+        "The Troll",
+        "The Undead",
+        "The Vampire",
+        "The Zipper",
+        "The Zombie"
+    ],
+    "Normal (Achievement)": [
+        "Almir's Beard",
+        "Krampus",
+        "Mechanical Santa",
+        "Mrs. Claus",
+        "The Strinch",
+        "The Champ",
+        "The Tids",
+        "Funny Man",
+        "Dawg",
+        "No Me Gusta",
+        "Rageface",
+        "Greedy the Elf",
+        "Rudelf",
+        "Cloaker-san",
+        "Zero 68",
+        "Augmentation",
+        "Safety First",
+        "Paycheck Chains",
+        "Paycheck Dallas",
+        "Alces",
+        "Canis Lupus",
+        "Felis Lynx",
+        "Ursus Maritimus"
+    ],
+    "Normal (CrimeFest 2015)": [
+        "Baba Yaga",
+        "Russian Hat",
+        "Sputnik",
+        "Tiara",
+        "Vlad Armor",
+        "Le Castle Vania",
+        "Eggian",
+        "Fatboy",
+        "Oliver",
+        "Pirate Skull",
+        "Groucho",
+        "Tinted Love"
+    ],
+    "Normal (Hoxton's Housewarming Party)": [
+        "Al Capone",
+        "Charles Lucky Luciano",
+        "George Bugs Moran",
+        "Stephanie Madame St. Clair",
+        "Commando",
+        "Dawn Patrol",
+        "Martial Law",
+        "Pickle Face",
+        "The Awkward Seal"
+    ],
+    "Normal (April Fools)": [
+        "Black Beanie",
+        "Green Beanie",
+        "Navy Beanie",
+        "Red Beanie",
+        "Chains, The Weapons Expert",
+        "Dallas, The Chief",
+        "Hoxton, The Infiltrator",
+        "Wolf, The Maniac"
+    ],
+    "Normal (The Search for Kento)": [
+        "Byrne",
+        "Fluffedup",
+        "Stoibs",
+        "Tempy",
+        "Keelhauled Alex",
+        "Nilam",
+        "One-Eyed Jessicah",
+        "Schneider"
+    ],
+    "Normal (Aldstone's Heritage)": [
+        "Kurgan's Gas Mask",
+        "Rivet's Bandana",
+        "Sterling's Beret",
+        "Wolfgang's Cap"
+    ],
+    "Normal (Locke and Load)": [
+        "Retro Chains",
+        "Retro Dallas",
+        "Retro Hoxton",
+        "Retro Wolf",
+        "Z.A.M.S Helmet",
+        "Rhubarb"
+    ],
+    "Normal (Spring Break 2018)": [
+        "PNV - BriteNite",
+        "Boxey",
+        "Crazy Lou",
+        "Frou Frou",
+        "Klaus"
+    ],
+    "Normal (Little Heisters' Holiday!)": [
+        "Bird Brain",
+        "Hyena Two-Face",
+        "Mad Cat",
+        "Mayan Mosaic Death",
+        "Relic Mask of the Body",
+        "Relic Mask of the Mind",
+        "Relic Mask of the Soul",
+        "Relic Mask of the Will"
+    ],
+    "Normal (Other)": [
+        "The Tormentor",
+        "God Emperor",
+        "The 45th",
+        "Fire Rooster",
+        "The 46th"
+    ],
+    "Lootbag DLC": [
+        "The Skull"
+    ],
+    "A Merry Payday Christmas Soundtrack DLC": [
+        "Furious Santa",
+        "Surprised Santa",
+        "Tipsy Santa"
+    ],
+    "Armored Transport DLC": [
+        "The 37th",
+        "The 42nd",
+        "The 43rd",
+        "The 44th"
+    ],
+    "Gage Weapon Pack #01 DLC": [
+        "Arnold",
+        "Chuck",
+        "Dolph",
+        "Jean-Claude"
+    ],
+    "Gage Weapon Pack #02 DLC": [
+        "Alpha Force",
+        "Commander Crime",
+        "The Gage Blade",
+        "The Troubled War Veteran"
+    ],
+    "Poetry Jam DLC": [
+        "Criminal Ambitions",
+        "Metalhead",
+        "The Optimist",
+        "War Face"
+    ],
+    "Gage Sniper Pack DLC": [
+        "Asilidae",
+        "Sphodromantis",
+        "Tarantula",
+        "Vespula"
+    ],
+    "The Big Bank Heist DLC": [
+        "The 16th",
+        "The 18th",
+        "The 1st",
+        "The First American"
+    ],
+    "Gage Shotgun Pack DLC": [
+        "Clint",
+        "John",
+        "Rutger",
+        "Steven"
+    ],
+    "Gage Assault Pack DLC": [
+        "Black Death",
+        "Crow Goblin",
+        "Professor Wrath",
+        "Volt"
+    ],
+    "Hotline Miami DLC": [
+        "Aubrey",
+        "Dennis",
+        "Graham",
+        "Rasmus"
+    ],
+    "Gage Historical Pack DLC": [
+        "British Bulldog",
+        "Old Blood and Guts",
+        "The Constable",
+        "The Red Bear"
+    ],
+    "The Diamond Heist DLC": [
+        "Anubis",
+        "Medusa",
+        "Pazuzu",
+        "The Cursed One"
+    ],
+    "Clover Character Pack DLC": [
+        "Clover",
+        "Clover Begins"
+    ],
+    "PAYDAY 2 Bundle Rewards": [
+        "Arch Nemesis",
+        "The Nun",
+        "Robo-Arnold"
+    ],
+    "The Bomb Heists DLC": [
+        "The Butcher from Hell",
+        "Lady Butcher",
+        "Tech Lion",
+        "The Doctor"
+    ],
+    "Dragan Character Pack DLC": [
+        "Dragan",
+        "Dragan Begins"
+    ],
+    "The Butcher's AK/CAR Mod Pack DLC": [
+        "Alfred",
+        "Pachy",
+        "Timothy",
+        "Vincent"
+    ],
+    "The OVERKILL Pack": [
+        "General OVERKILL"
+    ],
+    "The COMPLETELY OVERKILL Pack": [
+        "Mega Chains",
+        "Mega Cthulhu",
+        "Mega Dallas",
+        "Mega Death Wish",
+        "Mega Doctor Crime",
+        "Mega Gage Blade",
+        "Mega Grin",
+        "Mega Hoxton",
+        "Mega Kawaii",
+        "Mega Kevin",
+        "Mega Mark",
+        "Mega Plague Doctor",
+        "Mega Watcher",
+        "Mega Wolf"
+    ],
+    "The Butcher's BBQ Pack DLC": [
+        "Firefighter's Helmet",
+        "Graug",
+        "The Chef",
+        "The Gas Mask"
+    ],
+    "The Butcher's Western Pack DLC": [
+        "Apache Mystic",
+        "Desert Skull",
+        "Lone Heister",
+        "Wild West Classic"
+    ],
+    "The Alesso Heist DLC": [
+        "Boom Box",
+        "Cantus",
+        "Female Concert Goer",
+        "Male Concert Goer"
+    ],
+    "The Golden Grin Casino Heist DLC": [
+        "Murmillo Galea Helmet",
+        "Sports Utility Mask",
+        "The King",
+        "Wheeler Dealer"
+    ],
+    "Sokol Character Pack DLC": [
+        "Sokol",
+        "Sokol Begins"
+    ],
+    "Gage Ninja Pack DLC": [
+        "Kage",
+        "Kuro Zukin",
+        "Shirai",
+        "Slicer"
+    ],
+    "Yakuza Character Pack DLC": [
+        "Jiro",
+        "Jiro Begins"
+    ],
+    "Gage Chivalry Pack DLC": [
+        "Agatha Knight Veteran",
+        "Agatha Vanguard Veteran",
+        "Mason Knight Veteran",
+        "Mason Vanguard Veteran"
+    ],
+    "The Point Break Heists DLC": [
+        "Maui",
+        "Oro",
+        "Tane",
+        "Tawhiri"
+    ],
+    "The Goat Simulator Heist DLC": [
+        "Goat Goat",
+        "Mastermind Goat",
+        "Scout Goat",
+        "Slick Goat"
+    ],
+    "Wolf Pack DLC": [
+        "Hans",
+        "The Dragon Head",
+        "The Viking",
+        "Trickster Demon"
+    ],
+    "Sydney Character Pack DLC": [
+        "Sydney",
+        "Sydney Begins"
+    ],
+    "The Biker Heist DLC": [
+        "The Classic",
+        "Speed Devil",
+        "Flaming Skull",
+        "Road Rage"
+    ],
+    "Biker Character Pack DLC": [
+        "Rust",
+        "Rust Begins"
+    ],
+    "John Wick Weapon Pack DLC": [
+        "Daisy",
+        "Hotelier",
+        "Zashchita",
+        "Mustang"
+    ],
+    "Gage Spec Ops Pack DLC": [
+        "Batshit Crazy",
+        "A.W.O.L",
+        "Bloody Bandana",
+        "Dark Legion"
+    ],
+    "Scarface Heist DLC": [
+        "Exalted",
+        "Golden Hour",
+        "Barrori Flex",
+        "Panthera Tigris"
+    ],
+    "Scarface Character Pack DLC": [
+        "Scarface",
+        "Scarface Begins"
+    ],
+    "John Wick Heists Pack DLC": [
+        "Lady Liberty",
+        "Captain",
+        "Bird of Prey",
+        "Sailor"
+    ],
+    "Gage Russian Weapon Pack DLC": [
+        "Red Machine",
+        "Matryoshka",
+        "War Balaclava",
+        "Kokoshnik"
+    ],
+    "Zag Toys": [
+        "The Almir"
+    ],
+    "h3h3 Character Pack DLC": [
+        "Ethan",
+        "Hila",
+        "Ethan Begins",
+        "Hila Begins"
+    ],
+    "Border Crossing Heist DLC": [
+        "Hippika"
+    ],
+    "San Mart\u00edn Heist DLC": [
+        "The Sombrero"
+    ],
+    "Buluc's Mansion Heist DLC": [
+        "Undead Peacock"
+    ],
+    "Dragon Pack DLC": [
+        "Laughing Dragon",
+        "Mahakala",
+        "Serenity",
+        "Shouting Dragon"
+    ],
+    "Guardians Tailor Pack DLC": [
+        "Azure Dragon",
+        "Black Tortoise",
+        "Vermilion Bird",
+        "White Tiger"
+    ],
+    "Mega City Tailor Pack DLC": [
+        "Cyber Monkey",
+        "Electro Tiger",
+        "Robo Mantis",
+        "Viper Cyberjack"
+    ],
+    "Winter Ghosts Tailor Pack DLC": [
+        "Deer of Winters Past",
+        "Kitsune Kari",
+        "Leshy",
+        "PermaFrost"
+    ],
+    "Golden Dagger Tailor Pack DLC": [
+        "Crimson Striker Helmet",
+        "Golden Draped Visor",
+        "Hornet Striker Helmet",
+        "Sterling Draped Visor"
+    ],
+    "Moutain Master Heist DLC": [
+        "Mountain Master Crown"
+    ],
+    "Southbound Tailor Pack DLC": [
+        "Blood Money",
+        "Don't Mess With Texas",
+        "Speedway",
+        "El Capitan",
+        "Lone Star",
+        "Open Plain",
+        "Triggerman"
+    ],
+    "Texax Heat DLC" : [
+        "Prime Time",
+        "Texas Tea"
+    ],
+    "Tijuana Music Pack DLC" : [
+        "Telarana"
+    ],
+    "High Octane Tailor Pack": [
+        "Chrome Dome",
+        "Daredevil",
+        "Funny Guy",
+        "Speed Freak",
+        "The Reaper",
+        "Way of the Texan"
+    ],
+    "Street Smart Tailor Pack": [
+        "Agent Black",
+        "Agent Brown",
+        "Bad Cabbie",
+        "State Crime",
+        "Cool Beans Black",
+        "Cool Beans Green"
+    ],
+    "F*ck Cancer Big Mike Mask": [
+        "Big Mike"
+    ],
+    "10th Anniversary Jester Mask": [
+        "Decennial Jester"
+    ],
+    "Halloween Event": [
+        "Frank",
+        "Pumpkin King",
+        "Venomorph",
+        "Witch",
+        "Angry Baby",
+        "Cry Baby",
+        "Happy Baby",
+        "Brazil Baby",
+        "Invader",
+        "Satan",
+        "Risen Chains",
+        "Risen Dallas",
+        "Risen Houston",
+        "Risen Wolf",
+        "Envy",
+        "Gluttony",
+        "Greed",
+        "Lust",
+        "Pride",
+        "Sloth",
+        "Wrath"
+    ],
+    "Humble Mask Pack": [
+        "The Crossbreed",
+        "The Orc"
+    ],
+    "Humble Mask Pack 2": [
+        "Lycanwulf",
+        "The One Below"
+    ],
+    "Alienware Alpha Mask Pack": [
+        "Alpha Gray",
+        "The Anomaly"
+    ],
+    "Humble Mask Pack 3": [
+        "Electarodent",
+        "Titan"
+    ],
+    "Humble Mask Pack 4": [
+        "Borsuk",
+        "Mask of the Moon"
+    ],
+    "E3 2015 Secret Masks": [
+        "Jack of Cards",
+        "Queen of Cards",
+        "King of Cards",
+        "Joker of Cards"
+    ],
+    "Merchandise": [
+        "Dozer Mask"
+    ],
+    "PAYDAYCON 2015 Secret Mask": [
+        "King of Jesters"
+    ],
+    "Humble Mask Pack 5": [
+        "Floating Guy",
+        "Garreth",
+        "The Judge"
+    ],
+    "Hoxton's Housewarming Party": [
+        "Party Hat"
+    ],
+    "PAYDAYCON 2016 Secret Mask": [
+        "Mega Clover"
+    ],
+    "Sydney's Swim Challenge": [
+        "Mega Sydney"
+    ],
+    "Aldstone's Heritage": [
+        "The Fedora"
+    ],
+    "Locke and Load Day 9": [
+        "Simon"
+    ],
+    "Payday Franchise 8th Anniversary": [
+        "The Burning 8th"
+    ],
+    "Payday Franchise 11th Anniversary": [
+        "Family Man Dark",
+        "Family Man Gray"
+    ],
+    "A Criminal Carol 2022": [
+        "Green Elf",
+        "Purple Elf",
+        "Red Elf",
+        "Yellow Elf"
+    ],
+    "Hotline Miami": [
+        "Brandon",
+        "Don Juan",
+        "Richard",
+        "Tony"
+    ],
+    "Hotline Miami 2": [
+        "Alex",
+        "Biker",
+        "Corey",
+        "Jake",
+        "Richter",
+        "Tony's Revenge"
+    ],
+    "Hotline Miami 2 Deluxe": [
+        "Richard Returns Begins",
+        "Richard Returns"
+    ],
+    "SpeedRunners": [
+        "Hothead",
+        "SpeedRunner",
+        "The Falcon",
+        "Unic"
+    ],
+    "Dead by Daylight Deluxe": [
+        "Feeder",
+        "Dendron"
+    ],
+    "Shadow Warrior 2 Collaboration": [
+        "Ameonna",
+        "Co-Cop Ninja",
+        "Hata Mari",
+        "Thorntail"
+    ],
+    "Antisphere Collaboration": [
+        "DOME",
+        "DRONE",
+        "INTERCEPTOR",
+        "MOTH",
+        "RAPTOR",
+        "VIZOR",
+        "SKULL",
+        "WASP"
+    ],
+    "Enter the Gungeon": [
+        "The Bullet (Overkill)",
+        "The Cultist",
+        "The Marine",
+        "The Robot"
+    ],
+    "Reservoir Dogs": [
+        "Futuras",
+        "Producers",
+        "The Dons"
+    ],
+    "Criminal Ambition Crossover": [
+        "Shady Business"
+    ],
+    "Infamous (Card Drops)": [
+        "Dallas",
+        "Chains",
+        "Hoxton",
+        "Wolf",
+        "Dallas Begins",
+        "Chains Begins",
+        "Hoxton Begins",
+        "Wolf Begins",
+        "Anonymous",
+        "Cthulhu",
+        "The Dillinger Death Mask",
+        "The Grin"
+    ],
+    "Infamous (Achievement)": [
+        "Somen Mempo",
+        "Hoxton Reborn",
+        "The Hard Hat",
+        "Rad Mutant",
+        "Mega Rust",
+        "Mega Sangres"
+    ],
+    "Infamous (Other)": [
+        "StarVR",
+        "Mega Death",
+        "Mega Duke",
+        "Omen"
+    ],
+    "Bonnie Character Pack": [
+        "Bonnie",
+        "Bonnie Begins"
+    ],
+    "Hoxton Revenge": [
+        "Hoxton Reborn Begins"
+    ],
+    "Bodhi Character Pack": [
+        "Bodhi",
+        "Bodhi Begins"
+    ],
+    "Jimmy Character Pack": [
+        "Jimmy",
+        "The White Death"
+    ],
+    "John Wick": [
+        "Collateral"
+    ],
+    "Sangres Character Pack": [
+        "Sangres",
+        "Sangres Begins"
+    ],
+    "Duke Character Pack": [
+        "Duke",
+        "Duke Begins"
+    ],
+    "Joy Character Pack": [
+        "Joy",
+        "Joy Begins"
+    ],
+    "Difficulty Skulls": [
+        "The Normal Skull",
+        "The Hard Skull",
+        "The Very Hard Skull",
+        "The OVERKILL Skull",
+        "The Mayhem Skull",
+        "The Death Wish Skull",
+        "The Death Sentence Skull",
+        "The One Down Skull"
+    ],
+    "Holdout": [
+        "Classy Monocle",
+        "Fancy Top Hat",
+        "Spirit Fox",
+        "The Classically Fancy Super Villain",
+        "The Super Villain Moustache",
+        "Arcade Simian",
+        "Black Bird",
+        "Chibi Kitteh",
+        "Jamaican Nightmare",
+        "Poly Goat",
+        "Mega Optimist Prime",
+        "Mega Pirate",
+        "Mega Vlad Armor",
+        "Mega War",
+        "Mega Anubis",
+        "Mega Biker",
+        "Mega Krampus",
+        "Mega Robber Fly",
+        "Mega Smiley",
+        "Mega Tiara"
+    ],
+    "The Secret": [
+        "Secret Chains Mask",
+        "Secret Dallas Mask",
+        "Secret Hoxton Mask",
+        "Secret Wolf Mask",
+        "Guardian of Kings",
+        "Guardian of Watchers",
+        "Egyptian Wolf Mask",
+        "Mesoamerican Dallas Mask",
+        "Watchers Hoxton Mask",
+        "Summerian Chains Mask"
+    ],
+    "Infamy Reward": [
+        "The Heat",
+        "The Plague Doctor",
+        "The Butcher",
+        "The Specialist",
+        "The Spectre",
+        "Balaclava",
+        "Lurker",
+        "Android",
+        "The Being",
+        "Venger",
+        "Heister Sentry",
+        "Kamul",
+        "Demonshank",
+        "Gangsta Pranksta",
+        "The Max",
+        "Vanity Gold",
+        "The Masquerade",
+        "Vile Carny"
+    ],
+    "Achievement Milestones": [
+        "Mega Famine",
+        "Mega Conquest",
+        "Mega Tormentor",
+        "Mega Arch Nemesis",
+        "Mega Rad Mutant",
+        "Mega Greed",
+        "The Great Immortal"
+    ],
+    "Misc": [
+        "Frayed Harvest",
+        "Boney Black Top",
+        "Deadhead Blues",
+        "Nine Hundred Degrees",
+        "Nine Lives",
+        "Red Dead Bonehead Fred"
+    ],
+    "Twitch Drops": [
+        "Geist",
+        "Highball",
+        "Mephistopheles",
+        "Dead Man's Eyes",
+        "Vampyr"
+    ],
+    "Giveaway": [
+        "Lars the Troll"
+    ]
+}
