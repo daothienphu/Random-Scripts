@@ -5,7 +5,7 @@ This script is made to download all the in-game masks from that page, the catego
 Some masks from the wiki are only available on consoles, which the FBI page do not have resources to download. The wiki also miss about < 20 masks that are available on the FBI page.  
 ## Script:  
 #### Dependencies:  
-Python 3.9
+Python 3.9  
 Packages:  
 * progress
 #### How to run:  
@@ -70,7 +70,7 @@ At least 30.3 MB (31,776,494 bytes) of disk space is required. [y/n]? y
 [ 22/ 22] Wolf                           |################################| 100.0%
 ```
   
-The script does check if the files exist, although sometimes the url from the FBI page redirects to a different cache with a slightly different version of the file, so it will still download the new file.  
+The script does check if the files exist, although sometimes the URL from the FBI page redirects to a different cache with a slightly different version of the file, and it will download the new version.  
 ```
 Are you sure you want to download 22 file(s) in [Main Masks] > [Main Crew]?
 At least 30.3 MB (31,776,494 bytes) of disk space is required. [y/n]? y
